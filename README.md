@@ -34,16 +34,6 @@ npm install
 npm run dev
 ```
 
----
-
-## 📸 Features Preview
-
-* Add Expense
-* Filter Categories
-* Total Calculation
-
----
-
 ## 💡 Future Improvements
 
 * 📊 Add charts (expense distribution)
